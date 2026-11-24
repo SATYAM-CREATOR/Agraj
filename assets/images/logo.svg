@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 265" width="420" height="265" role="img" aria-label="AGRAJ Infrastructure Pvt. Ltd. Logo">
+  <!-- Left Black Tower & Wing -->
+  <polygon points="168,26 205,2 205,228 168,228" fill="#0A0A0A"/>
+  <polygon points="10,228 100,108 162,96 162,228" fill="#0A0A0A"/>
+  <!-- Right Deep Royal Purple Tower & Wing -->
+  <polygon points="215,2 252,26 252,228 215,228" fill="#2E0D54"/>
+  <polygon points="258,96 320,108 410,228 258,228" fill="#2E0D54"/>
+  <!-- AGRAJ Text -->
+  <text x="152" y="218" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="400" letter-spacing="2" fill="#FFFFFF">AGRAJ</text>
+  <!-- INFRA Text -->
+  <text x="268" y="218" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="400" letter-spacing="2" fill="#FFFFFF">INFRA</text>
+  <!-- Pvt. Ltd. Text -->
+  <text x="408" y="256" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="500" letter-spacing="1" fill="#2E0D54">Pvt. Ltd.</text>
+</svg>
